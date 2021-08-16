@@ -6,11 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "United States"
+title                    : "Joseph A Lyon, PhD Candidate Engineering Education"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Joseph A Lyon"
+description              : &description "Joe is a PhD candidate in the School of Engineering Education at Purdue University. He has previously recieved a Master's degree in Industrial Engineering and a Bachelor's degree in Agricultural and Biological Engineering. He is a recipient of the National Science Foundation's Graduate Research Fellowship. 
+His research interests include computational thinking, models and modeling, and data science in undergraduate engineering settings."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
